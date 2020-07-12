@@ -1,0 +1,8 @@
+{
+	"name": "treeNMS",
+	"desc": "redis管理后台,可在内外网部署",
+	"keyword": ["treeNMS is back-end management,use to manager redis or memcache"],
+	"7zfile": "treeNMS-1.7.4/treeNMS-1.7.4.7z",
+	"exepath": "treeNMS-1.7.4/treeNMS-1.7.4/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/treeNMS-1.7.4/treeNMS-1.7.4.7z.png"
+}

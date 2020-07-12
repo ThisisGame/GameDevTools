@@ -1,0 +1,8 @@
+{
+	"name": "Postman",
+	"desc": "网页调试与发送网页HTTP请求工具",
+	"keyword": ["Postman HTTP requests  Get Post Patch Delete Put"],
+	"7zfile": "Postman/Postman-win64-7.2.2-Setup.7z",
+	"exepath": "Postman/Postman-win64-7.2.2-Setup/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/Postman/Postman-win64-7.2.2-Setup.7z.png"
+}

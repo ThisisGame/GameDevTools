@@ -1,0 +1,8 @@
+{
+	"name": "ADBConsole",
+	"desc": "查看Android手机Log的工具，再也不用打开AndroidStudio了",
+	"keyword": ["ADBConsole logcat android ddms"],
+	"7zfile": "ADBConsole/ADBConsole.7z",
+	"exepath": "ADBConsole/ADBConsole/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/ADBConsole/ADBConsole.7z.png"
+}

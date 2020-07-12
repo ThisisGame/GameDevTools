@@ -1,0 +1,8 @@
+{
+	"name": "LuaMemoryProfiler",
+	"desc": "获取Lua数据表内存占用，非精准数据，只作为优化的时候进行对比参考。基于lua5.3.5。",
+	"keyword": ["LuaMemoryProfiler get lua table memory"],
+	"7zfile": "LuaMemoryProfiler/LuaMemoryProfiler.7z",
+	"exepath": "LuaMemoryProfiler/LuaMemoryProfiler/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/LuaMemoryProfiler/LuaMemoryProfiler.7z.png"
+}

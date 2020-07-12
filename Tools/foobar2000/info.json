@@ -1,0 +1,8 @@
+{
+	"name": "foobar2000",
+	"desc": "音乐播放器",
+	"keyword": ["foobar2000 is an advanced freeware audio player for the Windows platform.Supported audio formats: MP3, MP4, AAC, CD Audio, WMA, Vorbis, Opus, FLAC, WavPack, WAV, AIFF, Musepack, Speex, AU, SND... and more with additional components."],
+	"7zfile": "foobar2000/foobar2000.7z",
+	"exepath": "foobar2000/foobar2000/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/foobar2000/foobar2000.7z.png"
+}

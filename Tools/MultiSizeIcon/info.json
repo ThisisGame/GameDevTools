@@ -1,0 +1,8 @@
+{
+	"name": "MultiSizeIcon",
+	"desc": "一键生成Android、IOS 多尺寸Icon",
+	"keyword": ["icon","icon size"],
+	"7zfile": "MultiSizeIcon/MultiSizeIcon.7z",
+	"exepath": "MultiSizeIcon/MultiSizeIcon/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/MultiSizeIcon/MultiSizeIcon.7z.png"
+}

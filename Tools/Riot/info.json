@@ -1,0 +1,8 @@
+{
+	"name": "Riot",
+	"desc": "有损压缩 JPG PNG GIF",
+	"keyword": ["jpg png gif compress","png compress","image","Lossy compression","yasuo"],
+	"7zfile": "Riot/Riot.7z",
+	"exepath": "Riot/Riot/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/Riot/Riot.7z.png"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "GetStrMD5",
+	"desc": "获取字符串MD5",
+	"keyword": ["get str md5"],
+	"7zfile": "GetStrMD5/GetStrMD5.7z",
+	"exepath": "GetStrMD5/GetStrMD5/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/GetStrMD5/GetStrMD5.7z.png"
+}

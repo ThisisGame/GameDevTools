@@ -1,0 +1,8 @@
+{
+	"name": "Redis-x64-3.0.504",
+	"desc": "Redis win版本，微软出品",
+	"keyword": ["redis windows,powerd by microsoft."],
+	"7zfile": "Redis-x64-3.0.504/Redis-x64-3.0.504.7z",
+	"exepath": "Redis-x64-3.0.504/Redis-x64-3.0.504/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/Redis-x64-3.0.504/Redis-x64-3.0.504.7z.png"
+}

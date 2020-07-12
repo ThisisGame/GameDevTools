@@ -1,0 +1,8 @@
+{
+	"name": "TextureMerger",
+	"desc": "打图集工具 提取自Egret",
+	"keyword": ["png","jpg","texturepacker","texturemerger"],
+	"7zfile": "TextureMerger/TextureMerger.7z",
+	"exepath": "TextureMerger/TextureMerger/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/TextureMerger/TextureMerger.7z.png"
+}

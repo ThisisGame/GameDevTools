@@ -1,0 +1,8 @@
+{
+	"name": "advanced_ip_scanner",
+	"desc": "扫描指定网段IP，获取开放端口、网卡信息",
+	"keyword": ["advanced_ip_scanner scan lan ip,get port status and network card info"],
+	"7zfile": "advanced_ip_scanner/advanced_ip_scanner.7z",
+	"exepath": "advanced_ip_scanner/advanced_ip_scanner/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/advanced_ip_scanner/advanced_ip_scanner.7z.png"
+}

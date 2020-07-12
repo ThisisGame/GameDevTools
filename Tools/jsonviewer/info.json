@@ -1,0 +1,8 @@
+{
+	"name": "jsonviewer",
+	"desc": "json格式化校验工具",
+	"keyword": ["jsonviewer is json format and error check tool with visual gui", "jsonviewer"],
+	"7zfile": "jsonviewer/jsonviewer.7z",
+	"exepath": "jsonviewer/jsonviewer/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/jsonviewer/jsonviewer.7z.png"
+}

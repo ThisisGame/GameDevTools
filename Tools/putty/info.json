@@ -1,0 +1,8 @@
+{
+	"name": "putty",
+	"desc": "远程Linux",
+	"keyword": ["putty","ssh"],
+	"7zfile": "putty/putty.7z",
+	"exepath": "putty/putty/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/putty/putty.7z.png"
+}

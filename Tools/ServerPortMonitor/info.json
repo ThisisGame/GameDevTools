@@ -1,0 +1,8 @@
+{
+	"name": "ServerPortMonitor",
+	"desc": "监控服务器端口",
+	"keyword": ["ServerPortMonitor check server port is open"],
+	"7zfile": "ServerPortMonitor/ServerPortMonitor.7z",
+	"exepath": "ServerPortMonitor/ServerPortMonitor/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/ServerPortMonitor/ServerPortMonitor.7z.png"
+}

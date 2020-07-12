@@ -1,0 +1,8 @@
+{
+	"name": "PhpStudy",
+	"desc": "phpStudy 2016版  集成最新的Apache+Nginx+LightTPD+PHP+MySQL+phpMyAdmin+Zend Optimizer+Zend Loader",
+	"keyword": ["Apache+Nginx+LightTPD+PHP+MySQL+phpMyAdmin+Zend Optimizer+Zend Loader"],
+	"7zfile": "phpStudy20161103/phpStudy.7z",
+	"exepath": "phpStudy20161103/phpStudy/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/phpStudy20161103/phpStudy.7z.png"
+}

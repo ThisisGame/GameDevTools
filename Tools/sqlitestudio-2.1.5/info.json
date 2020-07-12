@@ -1,0 +1,8 @@
+{
+	"name": "SqliteStudio_2_1_5",
+	"desc": "sqlite3管理软件",
+	"keyword": ["sqlitestudio_2_1_5","db","sqlite3"],
+	"7zfile": "sqlitestudio-2.1.5/sqlitestudio-2.1.5.7z",
+	"exepath": "sqlitestudio-2.1.5/sqlitestudio-2.1.5/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/sqlitestudio-2.1.5/sqlitestudio-2.1.5.7z.png"
+}

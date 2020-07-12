@@ -1,0 +1,8 @@
+{
+	"name": "WinSCP",
+	"desc": "远程linux文件管理",
+	"keyword": ["linux","file","winscp","sftp","ftp","ssh"],
+	"7zfile": "WinSCP/WinSCP.7z",
+	"exepath": "WinSCP/WinSCP/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/WinSCP/WinSCP.7z.png"
+}

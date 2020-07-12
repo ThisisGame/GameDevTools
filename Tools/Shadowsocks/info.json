@@ -1,0 +1,8 @@
+{
+	"name": "Shadowsocks",
+	"desc": "代理 翻墙 VPN",
+	"keyword": ["shadowsocks","vpn","fanqiang","daili","proxy"],
+	"7zfile": "Shadowsocks/Shadowsocks.7z",
+	"exepath": "Shadowsocks/Shadowsocks/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/Shadowsocks/Shadowsocks.7z.png"
+}

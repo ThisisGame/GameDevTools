@@ -1,0 +1,8 @@
+{
+	"name": "Neor Profile SQL",
+	"desc": "可视化 Mysql性能监测工具 显示查询语句",
+	"keyword": ["Neor Profile SQL,profiler mysql querys with gui"],
+	"7zfile": "NeorProfileSQL/NeorProfileSQL.7z",
+	"exepath": "NeorProfileSQL/NeorProfileSQL/4.1.1/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/NeorProfileSQL/NeorProfileSQL.7z.png"
+}

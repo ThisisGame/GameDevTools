@@ -1,0 +1,8 @@
+{
+	"name": "emed64_17.9.0",
+	"desc": "超大文本查看，查看几G日志文件",
+	"keyword": ["very big log file viewer"],
+	"7zfile": "emed64_17.9.0/emed64_17.9.0.7z",
+	"exepath": "emed64_17.9.0/emed64_17.9.0/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/emed64_17.9.0/emed64_17.9.0.7z.png"
+}

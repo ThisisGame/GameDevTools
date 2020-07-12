@@ -1,0 +1,8 @@
+{
+	"name": "FileZilla",
+	"desc": "FTP SFTP 文件上传下载工具",
+	"keyword": ["FileZilla® is a cross-platform FTP, SFTP, and FTPS client with a vast list of features, which supports Windows, Mac OS X, Linux, and more. ","download"],
+	"7zfile": "FileZilla_3.42.1_win64/FileZilla_3.42.1_win64.7z",
+	"exepath": "FileZilla_3.42.1_win64/FileZilla_3.42.1_win64/FileZilla-3.42.1/start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/FileZilla_3.42.1_win64/FileZilla_3.42.1_win64.7z.png"
+}
