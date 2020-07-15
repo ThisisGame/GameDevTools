@@ -1,0 +1,8 @@
+{
+	"name": "bsdiff",
+	"desc": "BSDiff是一个差量更新算法，一般用来做增量更新",
+	"keyword": ["bsdiff","bspatch","hotfix","compare","bsdiff and bspatch are libraries for building and applying patches to binary files."],
+	"7zfile": "bsdiff-v4.3/bsdiff-v4.3.7z",
+	"exepath": "bsdiff-v4.3/bsdiff-v4.3/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/bsdiff-v4.3/bsdiff-v4.3.7z.png"
+}
