@@ -1,0 +1,8 @@
+{
+	"name": "Autoruns",
+	"desc": "查看开机自启动软件",
+	"keyword": ["Autoruns","show which soft start with system boot"],
+	"7zfile": "Autoruns/Autoruns.7z",
+	"exepath": "Autoruns/Autoruns/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/Autoruns/Autoruns.7z.png"
+}

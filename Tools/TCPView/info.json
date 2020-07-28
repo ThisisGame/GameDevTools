@@ -1,0 +1,8 @@
+{
+	"name": "TCPView",
+	"desc": "网络连接查看器，列出本地监听端口，连入端口，链出端口",
+	"keyword": ["TCPView","network status","port","listen","connect to"],
+	"7zfile": "TCPView/TCPView.7z",
+	"exepath": "TCPView/TCPView/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/TCPView/TCPView.7z.png"
+}

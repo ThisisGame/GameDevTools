@@ -1,0 +1,8 @@
+{
+	"name": "FolderSizePortable",
+	"desc": "文件夹大小查看工具，看看是谁占用了我的C盘",
+	"keyword": ["FolderSizePortable","show folder size"],
+	"7zfile": "FolderSizePortable/FolderSizePortable.7z",
+	"exepath": "FolderSizePortable/FolderSizePortable/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/FolderSizePortable/FolderSizePortable.7z.png"
+}

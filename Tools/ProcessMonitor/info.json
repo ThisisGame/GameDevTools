@@ -1,0 +1,8 @@
+{
+	"name": "ProcessMonitor",
+	"desc": "系统事件查看工具",
+	"keyword": ["ProcessMonitor","show system event like read file,modify register"],
+	"7zfile": "ProcessMonitor/ProcessMonitor.7z",
+	"exepath": "ProcessMonitor/ProcessMonitor/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/ProcessMonitor/ProcessMonitor.7z.png"
+}
