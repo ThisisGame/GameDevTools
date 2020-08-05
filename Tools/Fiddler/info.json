@@ -1,0 +1,8 @@
+{
+	"name": "Fiddler",
+	"desc": "http抓包分析工具",
+	"keyword": ["Fiddler Log all HTTP(S) traffic between your computer and the Internet. Inspect traffic, set breakpoints, and fiddle with request/response. "],
+	"7zfile": "Fiddler/Fiddler.7z",
+	"exepath": "Fiddler/Fiddler/start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/Fiddler/Fiddler.7z.png"
+}
