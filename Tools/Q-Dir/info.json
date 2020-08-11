@@ -1,0 +1,8 @@
+{
+	"name": "Q-Dir",
+	"desc": "开启多个文件夹窗口，以四格平铺在屏幕上，方便同时浏览多个文件夹图片。",
+	"keyword": ["Q-Dir","open four dir show in window,easy to view pictures files in multi dir"],
+	"7zfile": "Q-Dir/Q-Dir.7z",
+	"exepath": "Q-Dir/Q-Dir/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/Q-Dir/Q-Dir.7z.png"
+}
