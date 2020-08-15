@@ -1,0 +1,8 @@
+{
+	"name": "FileListSortPrint",
+	"desc": "将文件按大小排序，并输出文件列表到软件目录的 files.txt",
+	"keyword": ["sort file by filesize,export to files.txt"],
+	"7zfile": "FileListSortPrint/FileListSortPrint.7z",
+	"exepath": "FileListSortPrint/FileListSortPrint/start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/FileListSortPrint/FileListSortPrint.7z.png"
+}
