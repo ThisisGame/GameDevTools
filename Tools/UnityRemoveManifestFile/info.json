@@ -1,0 +1,8 @@
+{
+	"name": "UnityRemoveManifestFile",
+	"desc": "删掉Unity打Assetbundle生成的Manifest文件。",
+	"keyword": ["remove/delete unity build assetbundle generator manifest file"],
+	"7zfile": "UnityRemoveManifestFile/UnityRemoveManifestFile.7z",
+	"exepath": "UnityRemoveManifestFile/UnityRemoveManifestFile/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/UnityRemoveManifestFile/UnityRemoveManifestFile.7z.png"
+}
