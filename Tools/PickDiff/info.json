@@ -1,0 +1,8 @@
+{
+	"name": "PickDiff",
+	"desc": "对比文件夹，挑选出不同文件。",
+	"keyword": ["compare two folder,pick up different file and new file。"],
+	"7zfile": "PickDiff/PickDiff.7z",
+	"exepath": "PickDiff/PickDiff/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/PickDiff/PickDiff.7z.png"
+}
