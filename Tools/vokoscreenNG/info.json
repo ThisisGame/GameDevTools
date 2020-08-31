@@ -1,0 +1,8 @@
+{
+	"name": "vokoscreenNG",
+	"desc": "屏幕录制视频",
+	"keyword": ["vokoscreenNG record screen to video"],
+	"7zfile": "vokoscreenNG/vokoscreenNG.7z",
+	"exepath": "vokoscreenNG/vokoscreenNG/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/vokoscreenNG/vokoscreenNG.7z.png"
+}
