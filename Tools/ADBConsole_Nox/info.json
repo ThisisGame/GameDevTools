@@ -1,0 +1,8 @@
+{
+	"name": "ADBConsole_Nox",
+	"desc": "查看夜神模拟器Log的工具",
+	"keyword": ["ADBConsole_Nox logcat android ddms"],
+	"7zfile": "ADBConsole_Nox/ADBConsole_Nox.7z",
+	"exepath": "ADBConsole_Nox/ADBConsole_Nox/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/ADBConsole_Nox/ADBConsole_Nox.7z.png"
+}
