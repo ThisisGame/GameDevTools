@@ -1,0 +1,8 @@
+{
+	"name": "CHBRenamerPro",
+	"desc": "文件批量重命名工具",
+	"keyword": ["CHBRenamerPro","CHBRenamerPro used to batch rename,change file extention"],
+	"7zfile": "CHBRenamerPro/CHBRenamerPro.7z",
+	"exepath": "CHBRenamerPro/CHBRenamerPro/Start.bat",
+	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/CHBRenamerPro/CHBRenamerPro.7z.png"
+}
