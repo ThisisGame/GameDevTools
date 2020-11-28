@@ -1,13 +1,13 @@
 # GameDevTools
 游戏开发日常用到的工具集
 
-![Image text](http://gitlab.shouyougu.com/Captain/GameDevTools/raw/master/doc/1.png)
+![Image](https://github.com/ThisisGame/GameDevTools/blob/master/doc/1.png)
 
 
 # 使用方式
 在搜索框输入关键字，例如你想找 ttf精简工具，搜索font 即可。
 
-![Image text](http://gitlab.shouyougu.com/Captain/GameDevTools/raw/master/doc/2.png)
+![Image text](https://github.com/ThisisGame/GameDevTools/blob/master/doc/2.png)
 
 # 愿景
 
