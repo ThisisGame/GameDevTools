@@ -7,7 +7,7 @@
 # 使用方式
 在搜索框输入关键字，例如你想找 ttf精简工具，搜索font 即可。
 
-![Image text](https://github.com/ThisisGame/GameDevTools/blob/master/doc/2.png)
+![Image text](https://github.com/ThisisGame/GameDevTools/blob/master/doc/minifont.png)
 
 # 愿景
 
