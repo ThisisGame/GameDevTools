@@ -4,5 +4,5 @@
 	"keyword": ["advanced_ip_scanner scan lan ip,get port status and network card info"],
 	"7zfile": "advanced_ip_scanner/advanced_ip_scanner.7z",
 	"exepath": "advanced_ip_scanner/advanced_ip_scanner/Start.bat",
-	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/advanced_ip_scanner/advanced_ip_scanner.7z.png"
+	"7zurl":"https://gamedevtools-tools-1251125626.cos.ap-guangzhou.myqcloud.com/advanced_ip_scanner.7z"
 }

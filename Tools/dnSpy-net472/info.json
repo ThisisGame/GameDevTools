@@ -4,5 +4,5 @@
 	"keyword": ["dnSpy is a debugger and .NET assembly editor. You can use it to edit and debug assemblies even if you don't have any source code available. ","Debug .NET and Unity assemblies","Debug .NET Framework, .NET Core and Unity game assemblies, no source code required"],
 	"7zfile": "dnSpy-net472/dnSpy-net472.7z",
 	"exepath": "dnSpy-net472/dnSpy-net472/Start.bat",
-	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/dnSpy-net472/dnSpy-net472.7z.png"
+	"7zurl":"https://gamedevtools-tools-1251125626.cos.ap-guangzhou.myqcloud.com/dnSpy-net472.7z"
 }

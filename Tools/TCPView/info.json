@@ -4,5 +4,5 @@
 	"keyword": ["TCPView","network status","port","listen","connect to"],
 	"7zfile": "TCPView/TCPView.7z",
 	"exepath": "TCPView/TCPView/Start.bat",
-	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/TCPView/TCPView.7z.png"
+	"7zurl":"https://gamedevtools-tools-1251125626.cos.ap-guangzhou.myqcloud.com/TCPView.7z"
 }

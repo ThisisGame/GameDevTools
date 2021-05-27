@@ -4,5 +4,5 @@
 	"keyword": ["FBX Review A cross-platform 3D model viewer,Open files in a variety of common 3D formats to help improve the speed of asset review: .zip, .abc* .fbx, .3ds, .obj, .dxf, .dae, .bvh, .htr, .trc, .asf, .amc, .c3d, .aoa, .mcd."],
 	"7zfile": "FBXReview/FBXReview.7z",
 	"exepath": "FBXReview/FBXReview/Start.bat",
-	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/FBXReview/FBXReview.7z.png"
+	"7zurl":"https://gamedevtools-tools-1251125626.cos.ap-guangzhou.myqcloud.com/FBXReview.7z"
 }

@@ -4,5 +4,5 @@
 	"keyword": ["redis windows,powerd by microsoft."],
 	"7zfile": "Redis-x64-3.0.504/Redis-x64-3.0.504.7z",
 	"exepath": "Redis-x64-3.0.504/Redis-x64-3.0.504/Start.bat",
-	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/Redis-x64-3.0.504/Redis-x64-3.0.504.7z.png"
+	"7zurl":"https://gamedevtools-tools-1251125626.cos.ap-guangzhou.myqcloud.com/Redis-x64-3.0.504.7z"
 }

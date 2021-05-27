@@ -1,0 +1,8 @@
+{
+	"name": "HxD",
+	"desc": "十六进制编辑器",
+	"keyword": ["HxD is a carefully designed and fast hex editor"],
+	"7zfile": "HxD/HxD.7z",
+	"exepath": "HxD/HxD/Start.bat",
+	"7zurl":"https://gamedevtools-tools-1251125626.cos.ap-guangzhou.myqcloud.com/HxD.7z"
+}

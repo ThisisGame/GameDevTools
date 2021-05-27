@@ -4,5 +4,5 @@
 	"keyword": ["PVRTexTool convert(encode/compress) images textures(png/jpg) to gpu texture format like pvr(etc/ast)','Mali Texture Compression Tool"],
 	"7zfile": "PVRTexTool/PVRTexTool.7z",
 	"exepath": "PVRTexTool/PVRTexTool/Start.bat",
-	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/PVRTexTool/PVRTexTool.7z.png"
+	"7zurl":"https://gamedevtools-tools-1251125626.cos.ap-guangzhou.myqcloud.com/PVRTexTool.7z"
 }

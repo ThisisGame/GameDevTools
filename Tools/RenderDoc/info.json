@@ -4,5 +4,5 @@
 	"keyword": ["RenderDoc is a free MIT licensed stand-alone graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows 7 - 10, Linux, Android, Stadia, or Nintendo Switch™."],
 	"7zfile": "RenderDoc/RenderDoc.7z",
 	"exepath": "RenderDoc/RenderDoc/Start.bat",
-	"7zurl":"https://cp790621656.gitee.io/gamedevtools_tools/Tools/RenderDoc/RenderDoc.7z.png"
+	"7zurl":"https://gamedevtools-tools-1251125626.cos.ap-guangzhou.myqcloud.com/RenderDoc.7z"
 }
