@@ -1,0 +1,8 @@
+{
+	"name": "draw.io-14.6.13-windows-no-installer",
+	"desc": "http抓包分析工具",
+	"keyword": ["diagrams.net (formerly draw.io) is free online diagram software. You can use it as a flowchart maker, network diagram software, to create UML online, as an ER diagram tool, to design database schema, to build BPMN online, as a circuit diagram maker, and more. draw.io can import .vsdx, Gliffy™ and Lucidchart™ files . "],
+	"7zfile": "draw.io-14.6.13-windows-no-installer/draw.io-14.6.13-windows-no-installer.7z",
+	"exepath": "draw.io-14.6.13-windows-no-installer/draw.io-14.6.13-windows-no-installer/start.bat",
+	"7zurl":"https://gamedevtools-tools-1251125626.cos.ap-guangzhou.myqcloud.com/draw.io-14.6.13-windows-no-installer.7z"
+}
