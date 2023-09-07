@@ -1,0 +1,8 @@
+{
+	"name": "FileActivityWatch",
+	"desc": "监控文件读写",
+	"keyword": ["FileActivityWatch","FileActivityWatch pulls and displays the read/write/delete operation that occurs for every file on your system."],
+	"7zfile": "FileActivityWatch/fileactivitywatch-x64.7z",
+	"exepath": "FileActivityWatch/fileactivitywatch-x64/Start.bat",
+	"7zurl":"https://gamedevtools-tools-1251125626.cos.ap-guangzhou.myqcloud.com/fileactivitywatch-x64.7z"
+}
