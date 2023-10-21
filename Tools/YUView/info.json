@@ -1,0 +1,8 @@
+{
+	"name": "YUView",
+	"desc": "查看YUV图像文件",
+	"keyword": ["YUView"],
+	"7zfile": "YUView/YUView.7z",
+	"exepath": "YUView/YUView/Start.bat",
+	"7zurl":"https://gamedevtools-tools-1251125626.cos.ap-guangzhou.myqcloud.com/YUView.7z"
+}
