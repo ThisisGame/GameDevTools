@@ -1,0 +1,8 @@
+{
+	"name": "netcat-win32-1.12",
+	"desc": "网络工具测试网络联通、文件传输、端口扫描、反代、数据转发",
+	"keyword": ["netcat-win32-1.12s","Network Debugging and Testing","File Transfer","Port Scanning","Network Proxy","Listening to Network Data","Security Auditing and Penetration Testing","Data Forwarding","Persistent Backdoors"],
+	"7zfile": "netcat-win32-1.12/netcat-win32-1.12.7z",
+	"exepath": "netcat-win32-1.12/netcat-win32-1.12/Start.bat",
+	"7zurl":"https://gamedevtools-tools-1251125626.cos.ap-guangzhou.myqcloud.com/netcat-win32-1.12.7z"
+}
