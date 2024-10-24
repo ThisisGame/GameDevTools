@@ -1,0 +1,8 @@
+{
+	"name": "clumsy-0.2-win64",
+	"desc": "clumsy弱网测试工具，创建网络丢包、乱序、重发环境",
+	"keyword": ["clumsy","Lag, hold the packets for a short period of time to emulate network lagging.","Drop, randomly discard packets.","Throttle, block traffic for a given time frame, then send them in a single batch.","Duplicate, send cloned packets right after to the original one.","Out of order, re-arrange the order of packets.","Tamper, nudge bits of packet's content."],
+	"7zfile": "clumsy-0.2-win64/clumsy-0.2-win64.7z",
+	"exepath": "clumsy-0.2-win64/clumsy-0.2-win64/Start.bat",
+	"7zurl":"https://gamedevtools-tools-1251125626.cos.ap-guangzhou.myqcloud.com/clumsy-0.2-win64.7z"
+}
