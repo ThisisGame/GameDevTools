@@ -1,0 +1,8 @@
+{
+	"name": "SortTextLog",
+	"desc": "性能测试,profiler,trace,stat",
+	"keyword": ["log","sort","netlog","SortTextLog sort log by line length,use to sort net protocal txt to find which actor replicate oversize bunchsize"],
+	"7zfile": "SortTextLog/SortTextLog.7z",
+	"exepath": "SortTextLog/SortTextLog/Start.bat",
+	"7zurl":"https://gamedevtools-tools-1251125626.cos.ap-guangzhou.myqcloud.com/SortTextLog.7z"
+}
